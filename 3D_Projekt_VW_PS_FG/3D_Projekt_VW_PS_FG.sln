@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "3D_Projekt_VW_PS_FG", "3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG.vcxproj", "{15F73114-6209-473B-B343-47399178A9E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15F73114-6209-473B-B343-47399178A9E4}.Debug|x64.ActiveCfg = Debug|x64
+		{15F73114-6209-473B-B343-47399178A9E4}.Debug|x64.Build.0 = Debug|x64
+		{15F73114-6209-473B-B343-47399178A9E4}.Debug|x86.ActiveCfg = Debug|Win32
+		{15F73114-6209-473B-B343-47399178A9E4}.Debug|x86.Build.0 = Debug|Win32
+		{15F73114-6209-473B-B343-47399178A9E4}.Release|x64.ActiveCfg = Release|x64
+		{15F73114-6209-473B-B343-47399178A9E4}.Release|x64.Build.0 = Release|x64
+		{15F73114-6209-473B-B343-47399178A9E4}.Release|x86.ActiveCfg = Release|Win32
+		{15F73114-6209-473B-B343-47399178A9E4}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDD8AB0D-66FF-401C-935E-D8CA78025E61}
+	EndGlobalSection
+EndGlobal

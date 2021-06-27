@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project>
+  <ProjectOutputs>
+    <ProjectOutput>
+      <FullPath>C:\Users\Pad\Desktop\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\x64\Debug\3D_Projekt_VW_PS_FG.exe</FullPath>
+    </ProjectOutput>
+  </ProjectOutputs>
+  <ContentFiles>
+    <ContentFile>
+      <FullPath>C:\Users\Pad\Desktop\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\x64\Debug\GSDefault.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Pad\Desktop\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\x64\Debug\ParticlesPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Pad\Desktop\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\x64\Debug\ParticlesVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Pad\Desktop\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\x64\Debug\PSDefault.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Pad\Desktop\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\x64\Debug\SkyPS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Pad\Desktop\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\x64\Debug\SkyVS.cso</FullPath>
+    </ContentFile>
+    <ContentFile>
+      <FullPath>C:\Users\Pad\Desktop\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\x64\Debug\VSDefault.cso</FullPath>
+    </ContentFile>
+  </ContentFiles>
+  <SatelliteDlls />
+  <NonRecipeFileRefs />
+</Project>

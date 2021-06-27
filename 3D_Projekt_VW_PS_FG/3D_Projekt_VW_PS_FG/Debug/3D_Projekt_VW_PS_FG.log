@@ -1,0 +1,4 @@
+﻿C:\Users\Pad\Documents\GitHub\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\Shaders\VSDefault.hlsl(19,19-29): error X4502: invalid vs_2_0 output semantic 'WPOSITION'
+C:\Users\Pad\Documents\GitHub\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\Shaders\VSDefault.hlsl(21,17-24): error X4502: invalid vs_2_0 output semantic 'NORMAL'
+  
+  compilation failed; no code produced

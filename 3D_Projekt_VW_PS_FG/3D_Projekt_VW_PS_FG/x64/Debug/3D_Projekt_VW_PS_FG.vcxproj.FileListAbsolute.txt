@@ -1,0 +1,7 @@
+C:\Users\Pad\Documents\GitHub\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\x64\Debug\GSDefault.cso
+C:\Users\Pad\Documents\GitHub\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\x64\Debug\ParticlesPS.cso
+C:\Users\Pad\Documents\GitHub\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\x64\Debug\ParticlesVS.cso
+C:\Users\Pad\Documents\GitHub\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\x64\Debug\PSDefault.cso
+C:\Users\Pad\Documents\GitHub\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\x64\Debug\SkyPS.cso
+C:\Users\Pad\Documents\GitHub\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\x64\Debug\SkyVS.cso
+C:\Users\Pad\Documents\GitHub\3D_Projekt_VW_PS_FG\3D_Projekt_VW_PS_FG\x64\Debug\VSDefault.cso
