@@ -1,4 +1,4 @@
-# DirectX-11-Project
+# DirectX11-SchoolProject
 An assignment in school that included Directx 11 implementation with various techniques.
 
 ## Demo 
